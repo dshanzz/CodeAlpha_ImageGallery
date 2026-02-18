@@ -5,7 +5,7 @@ A stunning, fully responsive image gallery with lightbox view, real-time search,
 ## 🚀 Live Demo
 
 🔗 **Live Demo:** [https://dshanzz.github.io/CodeAlpha_ImageGallery/](https://dshanzz.github.io/CodeAlpha_ImageGallery/)  
-_(Replace with your actual GitHub Pages URL)_
+
 
 ## 📋 Task Requirements Met
 
@@ -151,4 +151,5 @@ This project is for educational purposes as part of the CodeAlpha internship pro
 **Author:** Dilnandh Shan A  
 **Date:** February 2026  
 **GitHub:** [dshanzz](https://github.com/dshanzz)
+
 
